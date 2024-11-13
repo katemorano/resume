@@ -1,0 +1,28 @@
+html, body{
+	display:block;
+	background-color: cadetblue;
+	font-family: "Rasa";
+}
+
+h1{
+	font-family: "Rasa";
+	text-align:center;
+}
+
+
+
+#photo{
+	display:block;
+	width: 400px;
+	height: 400px;
+	margin: 0 auto;
+	float: left;
+	padding-right: 30px;
+}
+
+.container{
+	display: block;
+	margin: 0 auto;
+	clear: left;
+}
+
